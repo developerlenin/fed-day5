@@ -1,0 +1,65 @@
+.contanier{
+    /* outline: solid 2px r */
+    /* width: auto;
+    height: auto;
+    margin-left: 80px;
+    margin-right: 80px;
+     */
+}
+.email{
+    
+    display: flex;
+    justify-content: space-between;
+    height: 41px;
+    width: 1336px;
+    background-color: black;
+    color: azure;
+}
+ul li {
+    display: inline-block;  
+    
+    margin-left: 30px;
+    font-size: 30px;
+    text-decoration: none;
+    color: antiquewhite;    
+}
+
+.nav{
+    background-color: aqua;
+    font-size: larger;
+    width: 1336px;
+    /* height: 75px; */
+    display: flex;
+    justify-content: space-between;
+
+
+
+}
+.day{
+    font-size: 50px;
+    
+
+}
+ul li a{
+    text-decoration: none;
+    color: red;
+}
+.bdcan{
+    background-color:black
+}
+.banner{
+    height: auto;
+    background-color: black;
+    /* height: 200px; */
+    
+    
+    
+
+
+}
+.lenin{
+color: aliceblue;
+}
+.jamal{
+    color: aliceblue;
+}
